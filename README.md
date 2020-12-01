@@ -2,5 +2,5 @@
 
 ### Motivação
 
-Aprender a usar o meétodo GET
+Aprender a usar o método GET
 
